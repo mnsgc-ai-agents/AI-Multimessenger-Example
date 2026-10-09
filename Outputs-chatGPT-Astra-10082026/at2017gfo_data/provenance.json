@@ -1,0 +1,21 @@
+{
+  "object": "AT2017gfo",
+  "repository": "https://github.com/nuclear-multimessenger-astronomy/nmma",
+  "commit": "b62084fa0f59faae0b9bccc4ac63fe46a232e836",
+  "source_url": "https://raw.githubusercontent.com/nuclear-multimessenger-astronomy/nmma/b62084fa0f59faae0b9bccc4ac63fe46a232e836/example_files/lightcurves/AT2017gfo.dat",
+  "sha256": "368ab3a605455059672caaf6e1081a7a24573664d8253c6cf53e6054a9b56bd7",
+  "columns": [
+    "UTC ISO time",
+    "filter name",
+    "magnitude as supplied",
+    "magnitude uncertainty"
+  ],
+  "input_variant": "AT2017gfo.dat; not AT2017gfo_corrected.dat",
+  "transformations": "none applied to stored source file",
+  "nonfinite_uncertainty": "NMMA convention: upper limits; excluded from the classroom Gaussian fit",
+  "limits_reference": "https://github.com/nuclear-multimessenger-astronomy/nmma/blob/b62084fa0f59faae0b9bccc4ac63fe46a232e836/nmma/em/em_likelihood.py",
+  "citation": "Pang et al., An updated nuclear-physics and multi-messenger astrophysics framework for binary neutron star mergers, https://arxiv.org/abs/2205.08513",
+  "calibration_note": "Native supplied magnitudes retained; no additional extinction correction, zero-point conversion, K-correction or bolometric conversion applied.",
+  "magnitude_system": "AB, per NMMA observational-data documentation",
+  "format_reference": "https://nuclear-multimessenger-astronomy.github.io/nmma/data_inj_obs.html"
+}

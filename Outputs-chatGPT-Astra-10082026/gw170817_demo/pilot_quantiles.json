@@ -1,0 +1,29 @@
+{
+  "warning": "Short conditional diagnostic; convergence not established; not LVK PE reproduction",
+  "likelihood": "gaussian",
+  "seed": 170817,
+  "burn": 10,
+  "steps": 20,
+  "quantiles_5_50_95": {
+    "chirp_mass": [
+      1.1974029354337166,
+      1.1974527490529798,
+      1.1974966443192623
+    ],
+    "luminosity_distance": [
+      44.20389604144846,
+      46.65570003115113,
+      48.014441657628716
+    ],
+    "phase": [
+      2.401132326951135,
+      2.4878038628991854,
+      2.5754916250249065
+    ],
+    "geocent_time": [
+      1187008882.4284658,
+      1187008882.4286413,
+      1187008882.4288635
+    ]
+  }
+}

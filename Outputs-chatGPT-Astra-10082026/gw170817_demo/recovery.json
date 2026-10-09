@@ -1,0 +1,6 @@
+{
+  "targeted_quadrature_snr": 27.091842927468235,
+  "detector_frame_chirp_mass_grid": 1.1976,
+  "lag_seconds": -0.00146484375,
+  "significance": "not estimated; targeted recovery only"
+}

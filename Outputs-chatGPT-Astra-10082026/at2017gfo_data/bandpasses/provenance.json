@@ -1,0 +1,15 @@
+{
+  "source": "SNCosmo built-in PS1 bandpasses (Tonry et al. 2012)",
+  "reference": "https://sncosmo.readthedocs.io/en/stable/bandpass-list.html",
+  "sncosmo_version": "2.13.1",
+  "dust_extinction_version": "1.7",
+  "extinction": "Fitzpatrick (1999), R_V=3.1; stored A_lambda/E(B-V)",
+  "sampling": "160 uniformly spaced wavelengths per filter; linear interpolation of native throughput",
+  "sha256": {
+    "g.txt": "739b2d221e12ec45e99375e55389b11eae1e76ebd15462c275090974a5d5c692",
+    "r.txt": "0f0abdae092827eada467f8183da98026d116fddc132a8bb48a136ddd5cff43f",
+    "i.txt": "cf25034b9af8d1ac4e79c62556c7f036bf3f64891e5aa9ecdbb97d639813595d",
+    "z.txt": "14942c87973342b32b47387fd1441b6a66a4209e4d514a6dd6679252ce5bbc12",
+    "y.txt": "f73dbf37a79bf34c65f4931f5b6fa5de99977c1cbc0dd984f8f82a60f41632e0"
+  }
+}

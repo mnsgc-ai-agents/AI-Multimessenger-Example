@@ -1,0 +1,2 @@
+# Eryn 1.2.6 uses np.in1d, removed in NumPy 2.4.
+numpy<2.4
